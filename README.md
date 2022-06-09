@@ -1,2 +1,2 @@
 # Visualization
-Python_Charts_and_Graphs
+Python Charts and Graphs for Data Analysis
